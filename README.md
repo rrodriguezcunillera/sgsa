@@ -48,6 +48,9 @@ Website: https://sourceforge.net/projects/openpfgw/
 
 ## Example Usage 
 ```
+\\ Load the script.
+read("sgsa1.0.gp");
+
 \\ Set the PARI/GP available RAM to 28GB
 default(parisize, 30000000000)
 
