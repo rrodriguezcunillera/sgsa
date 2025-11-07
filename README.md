@@ -16,7 +16,7 @@ SGSA can be applied to any number without restrictions. While it may not be as e
 
 Additionally, the script includes two functions for generating prime candidates using an adaptation of Pocklington’s theorem.
 
-Further details on SGSA, its comparison with other methods, and the candidate generation process based on Pocklington’s theorem can be found in the following paper: https://doi.org/10.36227/techrxiv.175373801.16133264/v1
+Further details on SGSA, its comparison with other methods, and the candidate generation process based on Pocklington’s theorem can be found in the following paper: https://doi.org/10.36227/techrxiv.175373801.16133264/v2
 
 This script may be particularly useful for researchers in number theory and anyone interested in optimizing prime search algorithms.
 
@@ -213,3 +213,4 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 https://github.com/rrodriguezcunillera/sgsa
 
 For the full license text, see: https://creativecommons.org/licenses/by/4.0/
+
